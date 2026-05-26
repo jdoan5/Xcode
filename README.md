@@ -13,21 +13,13 @@ This repository is a home for that work. **Each folder contains one app** that's
 
 ## Apps
 
-| App | Description | App Store | Folder |
-|-----|-------------|-----------|--------|
-| **App One** | One-line description of what it does | https://apps.apple.com/us/app/englishlearns/id6771974018| [`/app-one`](./app-one) |
-| **App Two** | One-line description of what it does | [Download](https://apps.apple.com/) | [`/app-two`](./app-two) |
-| **App Three** | One-line description of what it does | [Download](https://apps.apple.com/) | [`/app-three`](./app-three) |
+| App | Description | App Store | Folder                                                        |
+|-----|-------------|-----------|---------------------------------------------------------------|
+| **App One** | Learn English the right way - one word at a time.| https://apps.apple.com/us/app/englishlearns/id6771974018|https://github.com/jdoan5/Xcode/tree/main/EnglishLearns  |
+| **App Two** | One-line description of what it does | [Download](https://apps.apple.com/) | [`/app-two`](./app-two)                                       |
+| **App Three** | One-line description of what it does | [Download](https://apps.apple.com/) | [`/app-three`](./app-three)                                   |
 
 > Each app folder includes its own README with full details, screenshots, and version history.
-
-## Screenshots
-
-A quick look at a few of the apps. Full galleries live inside each app's folder.
-
-| App One | App Two | App Three |
-|---------|---------|-----------|
-| <img src="app-one/screenshots/preview.png" width="220"/> | <img src="app-two/screenshots/preview.png" width="220"/> | <img src="app-three/screenshots/preview.png" width="220"/> |
 
 ## Feedback Welcome
 
