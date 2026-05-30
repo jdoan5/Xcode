@@ -1,0 +1,1 @@
+tic tac toe,xo,noughts and crosses,strategy,board game,kids,family,offline,leaderboard,unbeatable

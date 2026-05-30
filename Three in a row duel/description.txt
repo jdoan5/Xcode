@@ -1,0 +1,36 @@
+The classic 3-in-a-row, done right.
+
+Tic Tac Toe is a calm, clean take on the game everyone already knows — built for quick matches at the table, in the back seat, or anywhere your phone goes. No ads. No accounts. No tracking. Just the game.
+
+TWO WAYS TO PLAY
+• Two players on one device — pass and play with anyone nearby
+• vs Computer — pick a difficulty and see how you stack up
+
+THREE COMPUTER DIFFICULTIES
+• Easy — plays at random, perfect for younger kids
+• Medium — blocks your winning moves and takes its own when it sees them
+• Unbeatable — full minimax search, the way the math says: you can draw, but you cannot win
+
+NAMED-PLAYER LEADERBOARD
+• Add a real name for each person who plays
+• Track wins, losses, draws, total games, and win rate per player
+• See who's actually the household champion
+
+EVERY GAME REMEMBERED
+• Every match is recorded with X / O players, winner, and game mode
+• Your stats persist between sessions
+• Reset any player from the Players tab when you want a fresh start
+
+DESIGNED TO STAY OUT OF YOUR WAY
+• Big, tappable cells
+• Clear winning-line highlight
+• Standard light/dark mode support
+• Portrait iPhone
+
+PRIVACY YOU CAN TRUST
+• No accounts. No sign-ups.
+• No analytics. No ads. No tracking.
+• Everything — players, games, stats — stays on your iPhone.
+• Delete the app and it all goes with it.
+
+Whether you're settling a debate, killing five minutes in line, or teaching a kid how to think a move ahead, Tic Tac Toe gives you the original game in the cleanest possible form.

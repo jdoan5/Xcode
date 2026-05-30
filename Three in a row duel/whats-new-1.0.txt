@@ -1,0 +1,1 @@
+Welcome to Tic Tac Toe. This first release brings classic two-player and vs computer modes, three AI difficulties (Easy / Medium / Unbeatable), a persistent named-player leaderboard with wins/losses/draws/win rate, and a clean modern design. Free, ad-free, fully offline.
