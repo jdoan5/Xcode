@@ -13,11 +13,11 @@ This repository is a home for that work. **Each folder contains one app** that's
 
 ## Apps
 
-| App | Description | App Store                                                       | Folder                                                        |
-|-----|-------------|-----------------------------------------------------------------|---------------------------------------------------------------|
-| **App One** | Learn English the right way - one word at a time.| https://apps.apple.com/us/app/englishlearns/id6771974018        |https://github.com/jdoan5/Xcode/tree/main/EnglishLearns  |
-| **App Two** | One-line description of what it does | https://apps.apple.com/us/app/three-in-a-row-duel/id6772803398  | [`/app-two`](./app-two)                                       |
-| **App Three** | One-line description of what it does | [Download](https://apps.apple.com/)                             | [`/app-three`](./app-three)                                   |
+| App | Description | App Store                                                      | Folder                                                  |
+|-----|-------------|----------------------------------------------------------------|---------------------------------------------------------|
+| **App One** | Learn English the right way - one word at a time.| https://apps.apple.com/us/app/englishlearns/id6771974018       | https://github.com/jdoan5/Xcode/tree/main/EnglishLearns |
+| **App Two** | One-line description of what it does | https://apps.apple.com/us/app/three-in-a-row-duel/id6772803398 | https://github.com/jdoan5/Xcode/tree/main/Three%20in%20a%20row%20duel                                                        |
+| **App Three** | One-line description of what it does | [Download](https://apps.apple.com/)                            | [`/app-three`](./app-three)                             |
 
 > Each app folder includes its own README with full details, screenshots, and version history.
 
