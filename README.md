@@ -13,11 +13,11 @@ This repository is a home for that work. **Each folder contains one app** that's
 
 ## Apps
 
-| App | Description                                      | App Store                                                     | Folder                                                  |
-|-----|--------------------------------------------------|---------------------------------------------------------------|---------------------------------------------------------|
-| **App One** | Learn English the right way - one word at a time. | https://apps.apple.com/us/app/learn-english-pronunciation/id6775637573      | https://github.com/jdoan5/Xcode/tree/main/EnglishLearns |
-| **App Two** | The classic 3-in-a-row, done right.              | https://apps.apple.com/us/app/three-in-a-row-duel/id6772803398 | https://github.com/jdoan5/Xcode/tree/main/Three%20in%20a%20row%20duel                                                        |
-| **App Three** | The classic snake game with a retro LCD soul.            | https://apps.apple.com/us/app/lcd-classic-snake/id6773937059                       | [`/app-three`](./app-three)                             |
+| App | Description                                      | App Store                                                     | Folder                                                |
+|-----|--------------------------------------------------|---------------------------------------------------------------|-------------------------------------------------------|
+| **App One** | Learn English the right way - one word at a time. | https://apps.apple.com/us/app/learn-english-pronunciation/id6775637573      | https://github.com/jdoan5/Xcode/tree/main/Learn%20English%20Pronunciation |
+| **App Two** | The classic 3-in-a-row, done right.              | https://apps.apple.com/us/app/three-in-a-row-duel/id6772803398 | https://github.com/jdoan5/Xcode/tree/main/Three%20in%20a%20row%20duel                                                      |
+| **App Three** | The classic snake game with a retro LCD soul.            | https://apps.apple.com/us/app/lcd-classic-snake/id6773937059                       | https://github.com/jdoan5/Xcode/tree/main/LCD%20Classic%20Snake                          |
 
 > Each app folder includes its own README with full details, screenshots, and version history.
 
