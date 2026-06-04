@@ -1,0 +1,1 @@
+Welcome to LCD Classic Snake. This first release brings classic snake gameplay on a 20×20 board, three difficulties (Easy / Medium / Hard) with their own scoring, swipe controls, pause/resume, and a persistent per-difficulty leaderboard with named players. Free, ad-free, fully offline.

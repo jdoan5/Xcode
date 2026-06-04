@@ -1,0 +1,40 @@
+The classic snake game, with a retro LCD soul.
+
+LCD Classic Snake is a calm, ad-free take on the arcade game everyone grew up with — built for quick rounds in line, on the couch, or anywhere your phone goes. No ads. No accounts. No tracking. Just the game.
+
+HOW TO PLAY
+• Swipe up, down, left, or right to steer
+• Eat the food pellet to grow and score
+• Don't hit the walls. Don't bite yourself.
+
+THREE DIFFICULTIES
+• Easy — slow tick, 10 points per food. A relaxed warm-up.
+• Medium — classic arcade speed, 20 points per food.
+• Hard — fast and unforgiving, 40 points per food. For chasing the top spot.
+
+NAMED-PLAYER LEADERBOARD
+• Add a real name for each person who plays
+• Top 10 scores tracked per difficulty
+• Compete with the household, the office, or just yourself
+• See your personal best on the Play tab before every game
+
+EVERY SCORE REMEMBERED
+• Each saved score keeps the player's name at the time it was set, so renames and deletions never break the board
+• Per-player totals: games played and cumulative score
+• Reset by deleting a player from the Players tab
+
+DESIGNED LIKE A HANDHELD
+• Green-on-black LCD aesthetic
+• Monospaced display font and pixel-sharp grid
+• Big swipe target, clear HUD
+• Pause / resume button
+• Auto-pauses when you switch apps or lock your phone
+• Portrait iPhone
+
+PRIVACY YOU CAN TRUST
+• No accounts. No sign-ups.
+• No analytics. No ads. No tracking.
+• Every player and score stays on your iPhone.
+• Delete the app and it all goes with it.
+
+Whether you're killing five minutes in line or trying to dethrone the kid with the suspiciously high Hard score, LCD Classic Snake gives you the original game in a sharp little retro package.

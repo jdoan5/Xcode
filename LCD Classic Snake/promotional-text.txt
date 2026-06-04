@@ -1,0 +1,1 @@
+A retro LCD snake game with three difficulties, swipe controls, and a persistent named-player leaderboard. Free. No ads. No tracking.
