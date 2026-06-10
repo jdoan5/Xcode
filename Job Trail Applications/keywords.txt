@@ -1,0 +1,1 @@
+job,application,tracker,applied,interview,offer,rejected,career,resume,hunt,pipeline,status

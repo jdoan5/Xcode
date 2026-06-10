@@ -1,0 +1,41 @@
+The calm caregiver app for medications and appointments.
+
+Family Medical helps you look after the people you care about — parents, partners, kids, or yourself — without juggling sticky notes, calendar pop-ups, or spreadsheets. Track every medication, refill date, injection, doctor visit, and insurance call in one quiet place. Free. No accounts. No tracking. Nothing leaves your phone.
+
+WHAT'S INSIDE
+• Add every family member with a name, color, and avatar
+• Track medications: pills, injections, liquids, inhalers, drops, topicals
+• Save dosage, schedule, pharmacy, Rx number, prescriber, and notes
+• Watch refill dates with clear urgency — overdue, refill now, this week, planned
+• Log appointments: doctor visits, lab work, insurance calls, pharmacy pickups, injection days
+• Mark appointments complete with a tap
+
+TODAY VIEW
+• See everything coming up across the whole family in one scroll
+• Sorted into Overdue, Today, This Week, and Later
+• Color-coded by urgency so the eye finds the important stuff first
+
+WRITE WITH APPLE INTELLIGENCE
+• Draft polite, short messages to doctors, pharmacies, and insurance
+• Refill requests, reschedule notes, insurance questions, general updates
+• Generated entirely on device — your medical details never leave your iPhone
+• Falls back to clean templates if Apple Intelligence isn't enabled
+• Copy or Share the draft straight to Mail, Messages, or any app
+
+BUILT FOR CAREGIVERS
+• Big, readable type
+• Clear visual hierarchy, friendly color coding
+• Works fully offline — no Wi-Fi needed
+• Portrait iPhone
+
+PRIVACY YOU CAN TRUST
+• No accounts. No sign-ups. No cloud.
+• No tracking. No analytics. No ads.
+• AI runs on your device using Apple Intelligence.
+• Every name, medication, and appointment stays on your iPhone.
+• Delete the app and everything is gone.
+
+IMPORTANT
+Family Medical is an organizer for the information you already keep — it does not provide medical advice, diagnose, or replace any conversation with a clinician or pharmacist. Always follow the directions on your prescriptions and from your healthcare providers.
+
+Family Medical is an independent app built by a caregiver, for caregivers.

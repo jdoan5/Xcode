@@ -1,0 +1,29 @@
+1. SCREEN RECORDING
+A screen recording captured on a physical iPhone 17 Pro (iOS 26.5) is attached. It launches the app and walks through: Today tab (overdue + upcoming items), Family tab → open a person → open a medication, Messages tab (pick Refill Request → pick a person → pick a medication → "Write with AI" → Copy the draft), Settings tab (Apple Intelligence status, privacy notes). About 90 seconds. The app has no account, payment, ATT, or sensitive-data prompts.
+
+2. DEVICES AND OS TESTED
+Physical: iPhone 17 Pro (iOS 26.5), iPhone 15 Pro (iOS 26.5).
+Simulator: iPhone 17 Pro Max, iPhone 17, iPhone Air (all iOS 26.5).
+Minimum deployment: iOS 26.0 (required by the FoundationModels framework).
+
+3. PURPOSE, AUDIENCE, PROBLEM, VALUE
+Family Medical is a personal information organizer for adult caregivers tracking medications, refill dates, injection schedules, doctor visits, and insurance calls for one or more family members. The target user (often the "sandwich generation") today juggles this across sticky notes, the Notes app, and pharmacy text messages. The app provides one calm screen showing every family member's upcoming items, plus on-device AI drafting of polite messages to pharmacies, doctors, and insurance. Free, no ads, no subscriptions, no in-app purchases.
+
+4. SETUP, ACCESS, CREDENTIALS
+No login, no account, no email, no demo credentials — the app has no server backend. On first launch it seeds two example family members ("Mom" and "Dad") with realistic medications and appointments so every feature is immediately tappable. The reviewer can also use Settings → "Delete all data" or "Load sample data" to reset.
+
+5. EXTERNAL SERVICES / TOOLS / PLATFORMS
+None. The app makes no network requests at any point and uses only first-party Apple frameworks:
+- SwiftUI — user interface
+- SwiftData — on-device persistence
+- FoundationModels (Apple Intelligence) — on-device LLM that drafts the polite messages; requires iOS 26+ with Apple Intelligence enabled. Gracefully falls back to deterministic text templates built into the app if Apple Intelligence is unavailable.
+
+No third-party AI service, no analytics SDK, no advertising SDK, no auth provider, no payment processor, no cloud sync, no CloudKit, no HealthKit, no healthcare data API.
+
+6. REGIONAL DIFFERENCES
+The app functions identically in every region and storefront. No region-locked features, no region-specific content, no region-specific pricing (free everywhere). UI is English only in this release; dates follow the device locale.
+
+7. REGULATED INDUSTRY / THIRD-PARTY MATERIAL
+Family Medical is NOT a medical device under FDA or any equivalent framework. It does not diagnose, give medical advice, recommend treatment, calculate dosages, check interactions, issue active alerts, or connect to any pharmacy, EHR, HIE, or insurance API. It is functionally a structured notes app for caregivers — comparable to writing medication names and appointment dates in Apple Notes or a paper notebook. All medical information stays on the user's device; nothing is transmitted off-device.
+
+Sample data uses generic placeholders ("Mom", "Dad", "Lisinopril", "Walgreens (Main St)") and contains no third-party trademarks, logos, drug databases, or clinical content. No authorization or third-party credential is required to publish this app.
