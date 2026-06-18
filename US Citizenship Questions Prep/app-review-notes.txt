@@ -1,0 +1,34 @@
+US CITIZENSHIP CIVICS TEST 128 — App Review Information
+Reply to Guideline 2.1, answering each requested item in order.
+
+OVERVIEW
+Civics Test 2025 is a fully offline study app for the 2025 version of the U.S. naturalization civics test. It contains the official 128 questions and answers published by USCIS (M-1778, 09/25) with three modes: a multiple-choice practice test that mirrors the real interview (20 questions, 12 correct to pass, ends early once the result is decided), a fill-in-the-blank mode where the user types answers, and a searchable study list. A "My Officials" screen lets the user save the names of current officeholders (President, Vice President, Speaker, Chief Justice, their senators, representative, governor, and state capital), because those answers change with elections; the app grades those questions against what the user saved and links to the official USCIS test-updates page for verification. All data is stored locally in UserDefaults. There is no account, no server, no network use, no third-party SDK, no advertising, no analytics, and no tracking, and the app requests no special permissions.
+
+1. SCREEN RECORDING
+A screen recording captured on a physical iPhone running the latest iOS is attached. It begins by launching the app from the Home Screen and walks through the core flow:
+launch -> home screen (the four modes, the 65/20 toggle, and the "answers change with elections" notice) -> Practice Test -> answer two multiple-choice questions (a correct pick highlights green; a wrong pick highlights red and reveals the correct answer) -> back -> Fill in the Blank -> Start -> type an answer ("republic") -> Check -> the green "Correct!" feedback with the official acceptable answers -> back -> Study -> search the 128-question list and open a question -> open a question tagged "May change" (the name of the President) showing the orange election warning and the uscis.gov test-updates link -> My Officials -> type a name into one field. About 60-75 seconds.
+The app contains NONE of the flows listed in the request: no account registration, login, or deletion; no paid content, purchases, or subscriptions; no user-generated content shared with or visible to other users (the only thing the user types — current officials' names — stays on the device); and no prompts requesting sensitive data or device capabilities (no location, contacts, camera, photos, microphone, notifications, or App Tracking Transparency).
+
+2. DEVICES AND OPERATING SYSTEMS TESTED
+Physical device: iPhone 17 Pro Max (iOS 26.5).
+Also exercised on the iPhone 17 Pro Max simulator (iOS 26.5).
+Minimum deployment target: iOS 17.0. iPhone only, portrait.
+
+3. PURPOSE, AUDIENCE, PROBLEM, VALUE
+Purpose: help permanent residents prepare for the civics portion of the U.S. naturalization interview using the official 2025 question list. Problem it solves: the official list is a 19-page PDF; several answers change with every election, and study materials go stale. This app turns the list into realistic practice and handles the changing answers explicitly — the user saves the current names and the app grades against them, with a link to the official USCIS update page. Value: realistic interview simulation (including the early-stop rule and the 65/20 senior option), recall practice rather than recognition only, and honest handling of answers that can change. Target audience: green-card holders preparing to naturalize, citizenship-class teachers and volunteers, and anyone studying U.S. civics. The app is free, with no ads, no in-app purchases, no subscriptions, and no accounts.
+
+4. SETUP, ACCESS, CREDENTIALS, SAMPLE FILES
+No login, account, email, demo credentials, or sample files are required, and nothing needs to be configured. The app is fully usable the moment it launches. Optional: typing current officials' names under My Officials enables practice of the eight election-dependent questions; leaving them empty simply skips those questions in practice modes (they remain visible in Study).
+
+5. EXTERNAL SERVICES, TOOLS, OR PLATFORMS
+None. The app makes no network requests and integrates no data providers, authentication services, payment processors, AI services, analytics, advertising, or crash-reporting SDKs. The complete question bank is compiled into the app. The only data is what the user types (officials' names and a settings toggle), stored on the device in UserDefaults. Tapping the USCIS, senate.gov, or house.gov links opens those public web pages in the user's own browser; the app itself transmits nothing.
+
+6. REGIONAL DIFFERENCES
+None. The app behaves identically in every region and storefront — free everywhere, with no region-locked content, features, or pricing. The interface is in English, the language of the standard civics test.
+
+7. REGULATED INDUSTRY / PROTECTED THIRD-PARTY MATERIAL
+The questions and answers are from "128 Civics Questions and Answers (2025 version)" (M-1778), published by U.S. Citizenship and Immigration Services. As a work of the United States government, it is in the public domain (17 U.S.C. § 105). The app presents the material as an independent study aid, links to uscis.gov for authoritative updates, and states plainly in the App Store description that it is not affiliated with or endorsed by USCIS or the U.S. government. No government seals, logos, or insignia are used anywhere in the app or its icon (the icon is an original star design). The app provides study content only — it gives no legal or immigration advice.
+
+Contact: john@johnvdoan.com
+Privacy policy: https://jdoan5.github.io/App%20Store/us-civics-test/privacy-policy.html
+Support: https://jdoan5.github.io/App%20Store/us-civics-test/support.html
