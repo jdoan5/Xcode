@@ -22,7 +22,9 @@ This repository is a home for that work. **Each folder contains one app** that's
 | **App Five**  | A clean, private way to track every job application in one place. | https://apps.apple.com/us/app/job-trail-applications/id6776927520      | https://github.com/jdoan5/Xcode/tree/main/Job%20Trail%20Applications      |
 | **App Six**   | Companion for the 2026 international soccer tournament | https://apps.apple.com/us/app/soccer-2026-live-scores/id6776318136     | https://github.com/jdoan5/Xcode/tree/main/Soccer%202026%3A%20Live%20Scores                                                                          |
 | **App Seven** | All 128 official USCIS questions and answers for the 2025 civics test.| https://apps.apple.com/us/app/us-citizenship-questions-prep/id6778971932                                                                       | https://github.com/jdoan5/Xcode/tree/main/US%20Citizenship%20Questions%20Prep |
-| **App Eight** | Turns your monthly income and spending into a clear 50/30/20 view |
+| **App Eight** | Turns your monthly income and spending into a clear 50/30/20 view | TBD | TBD |
+| **App Nine**  | A gentle, ad-free space adventure that helps kids ages 5–8 build math confidence — counting, addition, subtraction, comparing, missing numbers, and first multiplication — across a 15-level star map. | TBD | TBD |
+| **App Ten**   | A private ledger for the money moving in and out of your life or small business — log bills you pay and invoices you're owed, each with its payment method (online or check), due dates, statuses, receipts, and optional reminders. | TBD | TBD |
 
 > Each app folder includes its own description with full details, screenshots, and version history.
 

@@ -1,0 +1,1 @@
+invoice,bill,payment,tracker,check,receipt,expense,due,reminder,money,ledger,tax,paid,billing
