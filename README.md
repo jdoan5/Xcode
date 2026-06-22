@@ -13,15 +13,15 @@ This repository is a home for that work. **Each folder contains one app** that's
 
 ## Apps
 
-| App           | Description                                    | App Store                                                        | Folder                                                                    |
-|---------------|------------------------------------------------|------------------------------------------------------------------|---------------------------------------------------------------------------|
+| App           | Description                                    | App Store                                                              | Folder                                                                    |
+|---------------|------------------------------------------------|------------------------------------------------------------------------|---------------------------------------------------------------------------|
 | **App One**   | Learn English the right way - one word at a time. | https://apps.apple.com/us/app/learn-english-pronunciation/id6775637573 | https://github.com/jdoan5/Xcode/tree/main/Learn%20English%20Pronunciation |
-| **App Two**   | The classic 3-in-a-row, done right.            | https://apps.apple.com/us/app/three-in-a-row-duel/id6772803398   | https://github.com/jdoan5/Xcode/tree/main/Three%20in%20a%20row%20duel     |
-| **App Three** | The classic snake game with a retro LCD soul.  | https://apps.apple.com/us/app/lcd-classic-snake/id6773937059     | https://github.com/jdoan5/Xcode/tree/main/LCD%20Classic%20Snake           |
-| **App Four**  | The calm caregiver app for medications and appointments. | https://apps.apple.com/us/app/family-medical-refill/id6772649719 | https://github.com/jdoan5/Xcode/tree/main/Family%20Medical%20Refill       |
-| **App Five**  | A clean, private way to track every job application in one place. | https://apps.apple.com/us/app/job-trail-applications/id6776927520 | https://github.com/jdoan5/Xcode/tree/main/Job%20Trail%20Applications      |
-| **App Six**   | Companion for the 2026 international soccer tournament | https://apps.apple.com/us/app/soccer-2026-live-scores/id6776318136   | https://github.com/jdoan5/Xcode/tree/main/Soccer%202026%3A%20Live%20Scores                                                                          |
-| **App Seven** | All 128 official USCIS questions and answers for the 2025 civics test.| TBD |
+| **App Two**   | The classic 3-in-a-row, done right.            | https://apps.apple.com/us/app/three-in-a-row-duel/id6772803398         | https://github.com/jdoan5/Xcode/tree/main/Three%20in%20a%20row%20duel     |
+| **App Three** | The classic snake game with a retro LCD soul.  | https://apps.apple.com/us/app/lcd-classic-snake/id6773937059           | https://github.com/jdoan5/Xcode/tree/main/LCD%20Classic%20Snake           |
+| **App Four**  | The calm caregiver app for medications and appointments. | https://apps.apple.com/us/app/family-medical-refill/id6772649719       | https://github.com/jdoan5/Xcode/tree/main/Family%20Medical%20Refill       |
+| **App Five**  | A clean, private way to track every job application in one place. | https://apps.apple.com/us/app/job-trail-applications/id6776927520      | https://github.com/jdoan5/Xcode/tree/main/Job%20Trail%20Applications      |
+| **App Six**   | Companion for the 2026 international soccer tournament | https://apps.apple.com/us/app/soccer-2026-live-scores/id6776318136     | https://github.com/jdoan5/Xcode/tree/main/Soccer%202026%3A%20Live%20Scores                                                                          |
+| **App Seven** | All 128 official USCIS questions and answers for the 2025 civics test.| https://apps.apple.com/us/app/us-citizenship-questions-prep/id6778971932                                                                       | https://github.com/jdoan5/Xcode/tree/main/US%20Citizenship%20Questions%20Prep |
 | **App Eight** | Turns your monthly income and spending into a clear 50/30/20 view |
 
 > Each app folder includes its own description with full details, screenshots, and version history.
