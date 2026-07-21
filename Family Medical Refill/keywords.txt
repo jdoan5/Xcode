@@ -1,1 +1,0 @@
-medication,refill,reminder,caregiver,pill,prescription,doctor,injection,appointment,medical

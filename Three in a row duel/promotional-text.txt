@@ -1,1 +1,0 @@
-Classic Tic Tac Toe with three computer difficulties (Easy, Medium, Unbeatable), a persistent named-player leaderboard, and fully offline play. Free. No ads. No tracking.

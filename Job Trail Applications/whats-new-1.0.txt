@@ -1,1 +1,0 @@
-Welcome to Job Trail! This first release lets you log every job application with company, role, location, date applied, posting link, and notes — and track each one through Applied, Interviewing, Offer, Rejected, and Withdrawn. Filter and search your whole pipeline at a glance. Everything stays on your iPhone: no accounts, no ads, no tracking.

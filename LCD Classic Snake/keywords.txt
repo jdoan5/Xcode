@@ -1,1 +1,0 @@
-snake,arcade,retro,lcd,pixel,classic,offline,leaderboard,casual,handheld

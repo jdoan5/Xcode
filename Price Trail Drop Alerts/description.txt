@@ -1,0 +1,35 @@
+Stop refreshing product pages. Price Trail watches them for you.
+
+Paste any product link — Amazon, Walmart, Best Buy, Target, and most other stores — and Price Trail checks the price for you, quietly, in the background. The moment it drops, you get a notification. That's the whole idea, and it's free.
+
+TRACK ANY PRODUCT
+• Paste a link, and the app finds the product's name, photo, and current price automatically
+• Prices are re-checked while you're in the app and periodically in the background
+• Everything works without an account — nothing to sign up for
+
+PRICE-DROP ALERTS
+• Get notified on any price drop, or set a target price and hear only when it's crossed
+• Alerts tell you the old price, the new price, and which store
+
+COMPARE STORES
+• Track the same product at multiple stores and see them side by side
+• The cheapest store is highlighted, always
+• Open any store's page with one tap when you're ready to buy
+
+PRICE HISTORY
+• A clear chart of every store's price over time — 1 month, 3 months, or everything
+• See your target price right on the chart
+• Know instantly whether today's price is actually a deal or just marketing
+
+OUTLOOK: SHOULD YOU WAIT?
+• An on-device estimate of where the price is heading, computed from the product's own history
+• "Price drop likely", "stable", or "may rise" — with a confidence meter and a plain-English explanation
+• Calculated entirely on your device. No cloud AI reading your shopping list.
+
+PRIVATE BY DESIGN
+• No accounts, no ads, no analytics, no tracking
+• The app talks only to the store pages you add
+• Your product list syncs between your iPhone and iPad through your own private iCloud
+• Works on iPhone and iPad
+
+Price Trail is for anyone who's ever thought "I'll buy it when it goes on sale" — and then missed the sale.
