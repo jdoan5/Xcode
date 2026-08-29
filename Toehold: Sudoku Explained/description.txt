@@ -1,0 +1,29 @@
+Every other sudoku app has a hint button. You get stuck, you tap it, it fills in a square, and you have learned nothing. Toehold does the opposite.
+
+A panel sits beside your board and keeps a live inventory of the techniques that are available right now — "Hidden single ×2 · Pointing pair ×1 · X-Wing ×1" — updating on every digit and every pencil mark. It tells you what to look for. It does not tell you where.
+
+Tap a technique and it shows you the cells that make it true, and one plain sentence explaining why: "The only spots for 6 in box 2 — r1c5 and r3c5 — share column 5, so 6 leaves r4c5 and r6c5." Placing the digit is then a separate, deliberate tap. The toehold is yours; the climb is still yours too.
+
+DIFFICULTY THAT MEANS SOMETHING
+• Most apps grade by counting clues, which tells you nothing about how hard a puzzle is
+• Toehold grades by the hardest technique a puzzle actually requires
+• Gentle needs only singles. Steady adds locked candidates. Tricky adds pairs and triples. Tough needs X-Wing, Swordfish, or Y-Wing
+• Every puzzle is checked before you see it: exactly one solution, and solvable by named logic from start to finish. You will never be asked to guess
+
+ELEVEN TECHNIQUES, ALL EXPLAINED
+Naked and hidden singles · pointing pairs · box/line reduction · naked and hidden pairs and triples · X-Wing · Y-Wing · Swordfish. Each one names itself when it appears, so you learn the vocabulary by meeting it on your own board.
+
+BUILT FOR THE GRID
+• Pencil marks in a fixed 3x3 lattice, so a digit is always in the same spot
+• Fill all candidates in one tap, or place them yourself
+• Every key shows how many of that digit are left
+• Full undo
+• Optional mistake checking, off by default
+
+ON iPAD
+The technique panel stays open beside the board in a real two-column layout — not a stretched phone screen.
+
+PRIVATE AND OFFLINE
+Puzzles are generated on your device. No accounts, no ads, no analytics, no tracking, no network access of any kind. Free.
+
+Toehold is for anyone who has finished a sudoku and still could not say how they did it.
