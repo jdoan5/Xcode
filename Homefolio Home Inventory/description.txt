@@ -1,0 +1,43 @@
+Photograph what you own, room by room — so you can prove it later.
+
+Homefolio is a private home inventory for your belongings. Walk through your home, photograph what's in each room, and Homefolio keeps the photos, values, receipts, serial numbers, and warranty dates organized. When you need it, export a claim-ready PDF you can hand to an insurance adjuster. Free, uncapped, no account, no ads.
+
+CATALOG YOUR HOME, ROOM BY ROOM
+• Start with a room and photograph your way through it — the fastest way to cover a whole house
+• Shoot first and add the details later, so cataloging never stalls at a form
+• Every item can hold photos, a description, brand, model, serial number, quantity, and condition
+• Group by room the way you actually walk through your home
+
+THE DETAILS AN ADJUSTER ASKS FOR
+• Purchase date, purchase price, and current replacement cost
+• Brand, model, and serial number, with room for a serial-number close-up
+• Attach receipts, invoices, appraisals, and manuals as photos or PDFs
+• Categories for the things insurers look at closely — jewelry, fine art, electronics, collectibles
+
+A CLAIM-READY REPORT, FREE AND UNCAPPED
+• Export a Personal Property Inventory PDF: cover summary, room-by-room schedule, and a photo appendix
+• No page cap, no watermark, no upgrade prompt — every item and every photo, every time
+• Export the whole home, a single room, only high-value items, or a worksheet of what's still missing
+• Also export a 35-column CSV for a spreadsheet, and a full backup of everything you've entered
+
+NEVER LOSE A WARRANTY AGAIN
+• Record warranty end dates and see what's active, expiring soon, or expired
+• Optional local reminders before a warranty runs out
+
+KNOW WHAT'S STILL MISSING
+• See at a glance how many items still need a photo, a value, or a receipt
+• A quiet progress meter, never a nagging badge
+
+PRIVATE BY DESIGN
+• No account, no sign-up, no email
+• Your inventory syncs through your own iCloud account across iPhone, iPad, and Mac — it never touches a server of ours, because there isn't one
+• No tracking, no analytics, no ads
+• Optional Face ID / Touch ID lock
+• Export a full backup any time — your data is yours to take with you
+
+WORKS EVERYWHERE
+• A universal app for iPhone, iPad, and Mac
+
+Please note: Homefolio is a personal record-keeping tool. It is not an insurance company, agency, or adjuster, and it does not give insurance, legal, tax, or financial advice. It cannot tell you what your policy covers or what your claim is worth — only your policy documents, your licensed agent, and your insurer can. Homefolio does not calculate depreciation or actual cash value. Values shown are your own estimates. Any figures in the App Store screenshots are fictitious examples.
+
+Built by an independent developer who would rather you had the photos before you needed them.
