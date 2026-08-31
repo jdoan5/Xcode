@@ -30,13 +30,13 @@ KNOW WHAT'S STILL MISSING
 
 PRIVATE BY DESIGN
 • No account, no sign-up, no email
-• Your inventory syncs through your own iCloud account across iPhone, iPad, and Mac — it never touches a server of ours, because there isn't one
+• Your inventory syncs through your own iCloud account across your iPhone and iPad — it never touches a server of ours, because there isn't one
 • No tracking, no analytics, no ads
 • Optional Face ID / Touch ID lock
 • Export a full backup any time — your data is yours to take with you
 
 WORKS EVERYWHERE
-• A universal app for iPhone, iPad, and Mac
+• A universal app for iPhone and iPad
 
 Please note: Homefolio is a personal record-keeping tool. It is not an insurance company, agency, or adjuster, and it does not give insurance, legal, tax, or financial advice. It cannot tell you what your policy covers or what your claim is worth — only your policy documents, your licensed agent, and your insurer can. Homefolio does not calculate depreciation or actual cash value. Values shown are your own estimates. Any figures in the App Store screenshots are fictitious examples.
 
