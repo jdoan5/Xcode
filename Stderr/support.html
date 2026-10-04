@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Stderr — Support</title>
+<style>
+  :root {
+    --bg:#F4F8FC; --ink:#10233A; --blue:#2B6CB0; --paper:#E2ECF7; --gold:#FBEFD6;
+  }
+  html,body{margin:0;padding:0;background:var(--bg);color:var(--ink);font-family:-apple-system,BlinkMacSystemFont,"SF Pro Text",Helvetica,Arial,sans-serif;line-height:1.55;}
+  .wrap{max-width:720px;margin:0 auto;padding:48px 24px 80px;}
+  h1{font-size:36px;font-weight:900;letter-spacing:-0.5px;margin:0 0 8px;}
+  .tag{font-size:13px;font-weight:800;letter-spacing:1.6px;text-transform:uppercase;color:var(--blue);margin-bottom:4px;}
+  h2{font-size:20px;font-weight:800;margin:28px 0 8px;}
+  p,li{font-size:16px;}
+  .card{background:var(--paper);border:2px solid var(--ink);border-radius:14px;padding:18px 20px;margin:20px 0;box-shadow:5px 5px 0 var(--ink);}
+  .card.gold{background:var(--gold);}
+  .email-button{display:inline-block;background:var(--ink);color:var(--bg);padding:14px 22px;border-radius:14px;font-weight:800;text-decoration:none;border:2px solid var(--ink);box-shadow:5px 5px 0 var(--ink);margin-top:8px;}
+  a{color:var(--blue);}
+  .faq h3{font-size:17px;font-weight:800;margin:18px 0 4px;}
+  .faq p{margin:0 0 4px;}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="tag">Support</div>
+  <h1>Stderr</h1>
+  <p>Need help with Stderr? You're in the right place.</p>
+
+  <div class="card gold">
+    <strong>Have a question, bug report, or feature request?</strong>
+    <p>Email and we'll get back to you within a few days:</p>
+    <a class="email-button" href="mailto:john@johnvdoan.com?subject=Stderr%20Support">john@johnvdoan.com</a>
+  </div>
+
+  <h2>Frequently asked</h2>
+  <div class="faq">
+    <h3>What is this for?</h3>
+    <p>You have just seen something you did not expect — a compiler message, an exception, a number that is wrong — and you want to know what caused it. Stderr is a catalogue of exactly those: short Java and Python programs, the output they really produced, and the belief that makes people write them that way.</p>
+
+    <h3>How do I find the thing I am looking at?</h3>
+    <p>Paste it. The search field takes an error exactly as your terminal printed it, and search runs over the captured output itself rather than over titles. You can also filter by what happened: it refused to run, or it ran and printed the wrong thing.</p>
+
+    <h3>Is this a course?</h3>
+    <p>No. There are no lessons, no chapters, no progress and no score. Nothing is unlocked and nothing is tracked. You look something up and you leave.</p>
+
+    <h3>Are the outputs real?</h3>
+    <p>Yes, and this is the part worth knowing. Every program in the app was compiled and run on real Java and Python installations before the app shipped, and the printed lines come from those runs rather than from memory. The authoring format has no field for a hand-written output, so a plausible-looking wrong one cannot be introduced by mistake.</p>
+
+    <h3>Does the app run code on my device?</h3>
+    <p>No. The outputs are stored text, captured when the catalogue was built. Nothing is compiled, downloaded or executed on your device.</p>
+
+    <h3>Why are some entries marked "silently wrong"?</h3>
+    <p>Because those are the expensive ones. A program that refuses to compile tells you something is wrong. A program that runs, exits zero and prints the wrong number does not, and that is the bug that reaches production.</p>
+
+    <h3>Which languages does it cover?</h3>
+    <p>Java and Python today, on iPhone, iPad and Mac. The catalogue is built to take more.</p>
+
+    <h3>Does it work offline?</h3>
+    <p>Always. There is no networking code in the app at all, so Airplane Mode changes nothing.</p>
+
+    <h3>Does the app collect any data?</h3>
+    <p>No. No account, no analytics, no tracking, no ads and no servers of our own. See the <a href="privacy-policy.html">Privacy Policy</a>.</p>
+  </div>
+
+  <h2>Privacy</h2>
+  <p>Read the full <a href="privacy-policy.html">Privacy Policy</a>.</p>
+
+  <p style="font-size:13px;color:#5a6b7d;margin-top:40px;">Stderr is an independent app by John Doan.</p>
+</div>
+</body>
+</html>

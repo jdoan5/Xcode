@@ -1,0 +1,13 @@
+Some bugs announce themselves. A compiler refuses, a traceback prints, and at least you know where to look. The expensive ones do not: the program runs, exits zero, and quietly prints the wrong number.
+
+Stderr is a catalogue of both kinds. Each entry is a short Java or Python program, the output it actually produced when it was run, and the belief that makes people write it that way in the first place.
+
+You do not work through it. You arrive with something you have just seen — a compiler message, an exception, a value that is not what you expected — and you find it. Paste the error exactly as your terminal printed it; search runs over the captured output itself, not over lesson titles.
+
+The entry opens on the output, because the output is the reason you came. Underneath it is the program that produced it, then the beliefs that make the wrong answer look right — "you divided the way a calculator would" — then what actually happens and why.
+
+Nothing here is asserted. Every program was compiled and run on real Java and Python installations before the app shipped, and the printed lines come from those runs rather than from memory. The authoring format has no field for a hand-written output, so a plausible-looking wrong one cannot be introduced by mistake.
+
+It covers Java and Python today, on iPhone, iPad and Mac. Entries are grouped by what happened to you — it refused to run, or it ran and lied — rather than by chapter.
+
+Free. No accounts, no advertising, no analytics, no tracking, and no networking code at all, so it works the same with the network off.
