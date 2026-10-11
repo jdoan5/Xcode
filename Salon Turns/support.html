@@ -1,0 +1,163 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Salon Turns Support</title>
+<style>
+  :root {
+    --berry: #551b3f;
+    --berry-2: #8c2454;
+    --paper: #f6f1ee;
+    --card: #ffffff;
+    --ink: #22181d;
+    --muted: #6b5a63;
+    --rule: #e6dcd8;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --paper: #120f11;
+      --card: #1d181b;
+      --ink: #f3ecef;
+      --muted: #b9a9b1;
+      --rule: #34292f;
+      --berry-2: #e07fa9;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--paper);
+    color: var(--ink);
+    font: 17px/1.6 -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+  header {
+    background: linear-gradient(135deg, var(--berry), #8c2454);
+    color: #fff;
+    padding: 40px 16px 32px;
+  }
+  header .inner, main { max-width: 700px; margin: 0 auto; }
+  header p { margin: 4px 0 0; opacity: 0.85; }
+  h1 { margin: 0; font-size: 30px; line-height: 1.2; }
+  main { padding: 24px 16px 48px; }
+  .contact {
+    background: var(--card);
+    border: 2px solid var(--berry-2);
+    border-radius: 14px;
+    padding: 16px 20px;
+    margin: 0 0 24px;
+  }
+  details {
+    background: var(--card);
+    border: 1px solid var(--rule);
+    border-radius: 14px;
+    padding: 12px 20px;
+    margin: 0 0 12px;
+  }
+  summary { font-weight: 600; cursor: pointer; }
+  details p, details ol { margin: 10px 0 4px; }
+  h2 { font-size: 18px; margin: 28px 0 10px; color: var(--berry-2); }
+  a { color: var(--berry-2); }
+  footer { color: var(--muted); font-size: 14px; margin-top: 28px; }
+</style>
+</head>
+<body>
+<header>
+  <div class="inner">
+    <h1>Salon Turns Support</h1>
+    <p>The walk-in turn board for nail salon front desks &middot; iPad</p>
+  </div>
+</header>
+<main>
+  <div class="contact">
+    <strong>Need help or found a problem?</strong> Email
+    <a href="mailto:john@johnvdoan.com?subject=Salon%20Turns%20Support">john@johnvdoan.com</a>.
+    Mention your iPad model and iPadOS version, and what you tapped just before the problem.
+    Please do not send customer details; the app never needs them.
+  </div>
+
+  <h2>Getting started</h2>
+  <details open>
+    <summary>Setting up on the first day</summary>
+    <ol>
+      <li>On the Team tab, add each technician's first name.</li>
+      <li>On the Board, tap names to check people in as they arrive. The first to arrive is first in line.</li>
+      <li>When a walk-in comes in, the "Next walk-in" panel names who should take them.
+        Tap "Full walk-in" or "Half walk-in".</li>
+      <li>When the service is finished, tap "Done" on that person's card. Amounts are optional.</li>
+    </ol>
+  </details>
+  <details>
+    <summary>Can I try it before entering my own team?</summary>
+    <p>Yes. Settings &rarr; Load sample day fills today with a sample Saturday and sets the owner
+    PIN to 1234. When you are done, use Settings &rarr; Clear today, then change or turn off the
+    PIN under Owner PIN.</p>
+  </details>
+
+  <h2>Turns and rules</h2>
+  <details>
+    <summary>How does the app choose who is next?</summary>
+    <p>Among technicians who are checked in, not on a break and not with a client, it picks the
+    one with the fewest turns (or, if you choose that rule, the lowest service total entered).
+    A tie goes to whoever has been free the longest, then to whoever checked in first. The
+    sentence under the name always says which of these decided it.</p>
+  </details>
+  <details>
+    <summary>Do requests count as a turn?</summary>
+    <p>Not by default. A client who asks for a technician by name is logged as a request and
+    shown separately in the Tally. To count requests as turns, switch on "Requests count as
+    turns" in Settings.</p>
+  </details>
+  <details>
+    <summary>What happens when someone arrives late?</summary>
+    <p>By default a late arrival starts level with the lowest turn count of the people already
+    there, so they are not given every walk-in that follows. You can change this to "Start from
+    zero" in Settings.</p>
+  </details>
+  <details>
+    <summary>A rule change didn't change earlier turns. Why?</summary>
+    <p>Rule changes apply from the moment you make them and are written to the log. Turns given
+    earlier stay as they were, so the record matches what happened at the desk.</p>
+  </details>
+
+  <h2>Fixing mistakes</h2>
+  <details>
+    <summary>I tapped the wrong button</summary>
+    <p>Right after a one-tap action an Undo bar appears for a few seconds. Later, open the Log,
+    find the entry and tap "Void...". Give a reason; the entry stays in the log, crossed out,
+    and the board is worked out again as if it had not happened.</p>
+  </details>
+  <details>
+    <summary>Someone's turn count is wrong</summary>
+    <p>On their card, tap the "..." button, then "Adjust turns...". Step the count up or down in half
+    turns and give a reason. The adjustment is logged and can be voided later.</p>
+  </details>
+  <details>
+    <summary>I forgot the owner PIN</summary>
+    <p>The PIN cannot be shown or recovered, because only a one-way hash of it is stored. If you
+    still know it, you can change or turn it off in Settings. If not, deleting and reinstalling
+    the app removes the PIN, and also removes all of the app's records on that iPad.</p>
+  </details>
+
+  <h2>Records and exports</h2>
+  <details>
+    <summary>How do I export the day?</summary>
+    <p>Open the Tally tab, choose the day from the calendar menu, then tap CSV or PDF to open the
+    share sheet. The CSV opens in Numbers, Excel or Google Sheets.</p>
+  </details>
+  <details>
+    <summary>Is the Tally a payroll record?</summary>
+    <p>No. It adds up the numbers staff typed in. Salon Turns does not calculate wages or
+    commission, does not calculate hours, and does not handle money.</p>
+  </details>
+  <details>
+    <summary>Does it need Wi-Fi, or sync between iPads?</summary>
+    <p>It works without any internet connection. Version 1.0 keeps its records on one iPad and
+    does not sync between devices.</p>
+  </details>
+
+  <p><a href="privacy-policy.html">Privacy policy</a></p>
+  <footer>Salon Turns is made by John Doan. Salon Turns is not affiliated with any salon brand.</footer>
+</main>
+</body>
+</html>

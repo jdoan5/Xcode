@@ -1,0 +1,38 @@
+A walk-in comes through the door. Whose client is it?
+
+Salon Turns answers on one screen, and shows its working: "Lisa: fewest turns (1). Tied with Jenny; Lisa has waited longer." The rule is plain enough for everyone at the stations to check, so turns stop depending on memory or on who speaks first.
+
+HOW THE NEXT TECHNICIAN IS CHOSEN
+- The next walk-in goes to the free technician with the fewest turns today. If you prefer, choose the lowest service total entered instead.
+- A tie goes to whoever has been free the longest, then to whoever checked in first.
+- A half service counts as half a turn, so a quick polish change need not count the same as a full pedicure.
+- A client who asks for someone by name is a request. Requests are counted separately and, unless you switch it on, do not use up a turn.
+- Someone who arrives late can start level with the lowest count on the board, so they are not handed every walk-in that follows. Or they can start from zero.
+
+AT THE DESK
+- Check the team in with one tap as they arrive.
+- Give the walk-in to the person named, as a full or a half service. A wrong tap can be undone for a few seconds.
+- Mark a service done and, if you like, type in the service price and the tip.
+- A break takes someone out of the line; coming back keeps their count.
+
+WHEN SOMEONE ELSE SHOULD TAKE IT
+Sometimes a client needs a particular skill. Giving a walk-in out of turn asks for a reason and, once you have set one, the owner PIN. Adjusting a count and cancelling an entry work the same way.
+
+THE DAY'S LOG
+Every action is listed with its time. An entry made in error is voided with a reason and stays in the log, crossed out, so the record shows both what happened and what was corrected.
+
+CLOSING TIME
+The Tally lists each technician's services, full and half turns, requests, and the service and tip amounts staff entered, with totals. Share it as a CSV spreadsheet or a PDF. Earlier days stay available to look back on.
+
+WHAT IT IS NOT
+- Not payroll. It does not work out wages or commission, and it does not take or send money. The Tally only adds up numbers staff typed in.
+- No customer data. The app keeps the names you give your technicians and the amounts entered. It never asks for a client's name, phone number or email.
+- Works offline. No login, no online setup: Salon Turns makes no internet connections at all. Its records live on the iPad.
+
+MADE FOR THE COUNTER
+- Large buttons that work in landscape and portrait.
+- An option to keep the screen awake while the app is open.
+- VoiceOver labels on the board's cards and buttons.
+- Try it before entering your own team: Settings > Load sample day fills today with a sample Saturday (and sets the owner PIN to 1234). When you are ready to start for real, Clear today empties today's log; then rename or archive the sample technicians on the Team screen and set your own PIN.
+
+Requires an iPad with iPadOS 17 or later.
