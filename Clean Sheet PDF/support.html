@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Clean Sheet PDF — Support</title>
+<style>
+  :root {
+    --bg:#F4F8FC; --ink:#10233A; --blue:#1A69BD; --paper:#E2ECF7; --gold:#FBEFD6;
+  }
+  html,body{margin:0;padding:0;background:var(--bg);color:var(--ink);font-family:-apple-system,BlinkMacSystemFont,"SF Pro Text",Helvetica,Arial,sans-serif;line-height:1.55;}
+  .wrap{max-width:720px;margin:0 auto;padding:48px 24px 80px;}
+  h1{font-size:36px;font-weight:900;letter-spacing:-0.5px;margin:0 0 8px;}
+  .tag{font-size:13px;font-weight:800;letter-spacing:1.6px;text-transform:uppercase;color:var(--blue);margin-bottom:4px;}
+  h2{font-size:20px;font-weight:800;margin:28px 0 8px;}
+  p,li{font-size:16px;}
+  .card{background:var(--paper);border:2px solid var(--ink);border-radius:14px;padding:18px 20px;margin:20px 0;box-shadow:5px 5px 0 var(--ink);}
+  .card.gold{background:var(--gold);}
+  .email-button{display:inline-block;background:var(--ink);color:var(--bg);padding:14px 22px;border-radius:14px;font-weight:800;text-decoration:none;border:2px solid var(--ink);box-shadow:5px 5px 0 var(--ink);margin-top:8px;}
+  a{color:var(--blue);}
+  .faq h3{font-size:17px;font-weight:800;margin:18px 0 4px;}
+  .faq p{margin:0 0 4px;}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="tag">Support</div>
+  <h1>Clean Sheet PDF</h1>
+  <p>Need help with Clean Sheet PDF? You're in the right place.</p>
+
+  <div class="card gold">
+    <strong>Have a question, bug report, or feature request?</strong>
+    <p>Email and we'll get back to you within a few days:</p>
+    <a class="email-button" href="mailto:john@johnvdoan.com?subject=Clean%20Sheet%20PDF%20Support">john@johnvdoan.com</a>
+  </div>
+
+  <h2>Frequently asked</h2>
+  <div class="faq">
+    <h3>How do I add a PDF?</h3>
+    <p>Tap the + button at the top of the library and pick a file, or send a PDF to Clean Sheet PDF from any other app with the share sheet or Open With. On iPhone and iPad your documents also appear in the Files app under Clean Sheet PDF, so you can always get them back out. On a Mac the app is sandboxed and keeps them in its own container, so use Share from inside the app to put a copy wherever you want it.</p>
+
+    <h3>How do I redact something?</h3>
+    <p>Open a document, tap the … button, then Redact. Drag across anything that must be removed — use Undo mark to take one back — and tap Save Copy. Your original is never changed; the redacted version is saved alongside it.</p>
+
+    <h3>Is the text really gone, or just covered up?</h3>
+    <p>Really gone. Most PDF apps draw a black rectangle over the words, and the words stay in the file where anyone can select, copy or extract them. This app rebuilds the marked page instead, writing the new page with no text layer at all, so there is nothing underneath to recover. Before saving, the app re-reads its own output and refuses to hand you a document it cannot verify.</p>
+
+    <h3>Why can't I search a page after redacting it?</h3>
+    <p>Because removing text honestly means replacing that page with an image, and an image has no text layer — which is exactly why nothing can be recovered from it. Only pages you actually marked are rebuilt. Everything else in the document is left alone and stays fully searchable.</p>
+
+    <h3>How do I fill in a PDF form?</h3>
+    <p>Open the document, tap the … button, then Fill In. Every fillable field is listed in the order it appears on the page, under the name the form's author gave it, with the page number beside it. Type your answers, tick any checkboxes, then tap Save Copy. If Fill In is greyed out, that PDF has no form fields — it may be a scan, or a flat document that only looks like a form.</p>
+
+    <h3>What does "Lock the answers" do?</h3>
+    <p>It decides whether your answers are part of the page or sitting on top of it. Left off, the copy stays a fillable form: whoever receives it can edit every answer, and any PDF tool can read them straight off the file. Left on — which is the default — each page that has fields is rebuilt with your answers drawn into the page itself, so they cannot be edited or read back out as form data. The trade is the same one redaction makes: those pages become images and stop being searchable. Pages without fields are left alone.</p>
+
+    <h3>How do I sign a document?</h3>
+    <p>Open it, tap …, then Sign. Draw your signature with a finger, trackpad or Apple Pencil — Undo stroke and Clear are there if it goes wrong — and tap Next. Then drag the signature to where it belongs, use the slider to size it, pick the page, and tap Save Copy. Your original is never changed.</p>
+
+    <h3>Is that a digital signature?</h3>
+    <p>No, and the distinction matters. What the app places is a <em>handwritten</em> signature — the same thing you would produce with a pen on paper. It is not a cryptographic digital signature: there is no certificate, no key, and nothing a recipient can check to prove who signed or that the document is unchanged since. If someone has asked you for a certified or digitally certified signature, this is not that.</p>
+    <p>What it does do that most apps don't: the signature is drawn into the page rather than stamped on as an annotation. An annotation can be selected and deleted by anyone who opens the file, or dragged off onto a different document. This cannot, because it is part of the picture of the page.</p>
+
+    <h3>Can I remove the signature the app remembered?</h3>
+    <p>Yes. Tap the ••• button in the library and choose Settings. The <em>Your signature</em> section shows exactly what is stored — you can see the signature itself — with a <strong>Remove Saved Signature</strong> button under it. Drawing a new one with <em>Remember this signature on this device</em> switched on also replaces it, and deleting the app removes it.</p>
+    <p>Removing the stored copy does not change any document you have already signed. On those the signature is part of the page, which is exactly what makes it hard for anyone else to strip out. If you would rather nothing were stored in the first place, switch <em>Remember this signature</em> off before you tap Next and it is used for that document only. It is never sent anywhere either way; the app has no networking at all.</p>
+
+    <h3>How do I merge PDFs?</h3>
+    <p>From the library, choose Merge PDFs. Tap documents in the order you want them, drag to reorder, then give the result a name. The originals are not changed.</p>
+
+    <h3>Can I export pages as images or text?</h3>
+    <p>Yes. Open a document, tap …, then Export. You can save every page as a PNG, or pull out the plain text. If the PDF is a scan there is no text layer to extract, and the app says so rather than writing you an empty file.</p>
+
+    <h3>Can it convert a PDF to Word or Excel?</h3>
+    <p>No, deliberately. Converting accurately needs either a very large layout engine or a server, and free converters almost always mean the second one — your document is uploaded, converted elsewhere, and sent back. This app has no networking code at all, so that option does not exist. The feature is left out rather than done dishonestly.</p>
+
+    <h3>Is it on iPad and Mac?</h3>
+    <p>Yes, all three. iPhone and iPad come from one universal app, and the Mac version is built from the same code through Mac Catalyst — so redacting, filling in and signing behave identically everywhere, because it is literally the same engine.</p>
+
+    <h3>Does the app work offline?</h3>
+    <p>Always. There is nothing in the app that uses the internet, so Airplane Mode changes nothing at all.</p>
+
+    <h3>Does the app collect any data?</h3>
+    <p>No. No account, no analytics, no tracking, no ads, and no servers of our own. Your documents stay on your device and cannot be sent anywhere, because there is no networking code that could send them. See the <a href="privacy-policy.html">Privacy Policy</a>.</p>
+
+    <h3>The app said a page could not be verified. What now?</h3>
+    <p>Redacting, locking answers and signing all rebuild the page, and the app re-reads its own output before saving to check the rebuild actually took. If it cannot prove it did, it refuses and saves nothing. That refusal is deliberate: handing you a file you believe is clean when it is not would be the worst thing this app could do. Please email me, and if you can, a document that reproduces it.</p>
+  </div>
+
+  <h2>Privacy</h2>
+  <p>Read the full <a href="privacy-policy.html">Privacy Policy</a>.</p>
+
+  <p style="font-size:13px;color:#5a6b7d;margin-top:40px;">Clean Sheet PDF is an independent app by John Doan.</p>
+</div>
+</body>
+</html>

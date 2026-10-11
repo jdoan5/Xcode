@@ -1,0 +1,32 @@
+Most PDF apps redact by drawing a black rectangle over the words. The rectangle is a separate layer. The words are still in the file — select the area, copy, paste, and there they are. That mistake has exposed salaries, home addresses and sealed court filings for twenty years.
+
+Clean Sheet PDF does not do that.
+
+When you mark an area, the page is rebuilt as an image with that area painted out, and the new page is written without the original text. There is nothing underneath to recover, because the words are never written into the new file at all. Before it saves, the app re-reads its own output and refuses to hand you a document it cannot prove came out clean.
+
+THE SAME IDEA, APPLIED TO FORMS
+Filling in a PDF form normally just sets values on the form's fields. Those values sit on top of the page: whoever you send it to can edit them, and any PDF tool can read them straight off the file. When you lock your answers, Clean Sheet PDF rebuilds each page that has fields with your answers drawn into the page itself, so they become part of it and cannot be changed.
+
+AND TO SIGNING
+Sign with your finger, trackpad or Apple Pencil. Most apps add a signature as a stamp that sits on the page — which means anyone can select it and press delete, or drag it off your document onto a different one. Here the signature is signed into the page, so it cannot be removed or reused.
+
+To be clear about what that is: it is a handwritten signature, the same thing you would produce with a pen on paper. It is not a cryptographic digital signature — there is no certificate and no key, and nothing a recipient can check to prove who signed. If you have been asked for a certified signature, this is not that.
+
+NOTHING LEAVES YOUR DEVICE
+There is no networking code in this app. Not "we promise not to upload" — there is no code that could. No account, no sign-in, no analytics, no advertising, no cloud conversion. Your documents never travel anywhere you did not send them yourself. Your saved signature stays on your device too.
+
+WHAT IT DOES
+• Read PDFs, with smooth scrolling, pinch zoom and text selection
+• Redact — mark anything and it is removed, not covered
+• Fill in PDF forms, and lock your answers so they cannot be edited
+• Sign a document, signed into the page rather than stuck on top
+• Merge several PDFs into one, in the order you choose
+• Export pages as images, or pull out the plain text
+
+HONEST ABOUT THE TRADE
+A page that is redacted, signed, or has its answers locked becomes an image, so its text is no longer searchable or selectable. Every other page is left exactly as it was and stays fully searchable. The app tells you this before you save, rather than after you notice.
+
+WHAT IT DOES NOT DO
+No conversion to Word, Excel or PowerPoint. Doing that accurately needs either a very large layout engine or a server, and sending your contract to someone's server is the one thing this app will not do. Better to leave the feature out than to quietly upload your documents for it.
+
+Free. No advertising, no tracking, no subscription, no account.

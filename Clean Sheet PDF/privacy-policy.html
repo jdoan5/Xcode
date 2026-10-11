@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Clean Sheet PDF — Privacy Policy</title>
+<style>
+  :root {
+    --bg:#FBF1DF; --ink:#241E19; --pine:#2E5E4E; --paper:#F3E6CE;
+  }
+  html,body{margin:0;padding:0;background:var(--bg);color:var(--ink);font-family:-apple-system,BlinkMacSystemFont,"SF Pro Text",Helvetica,Arial,sans-serif;line-height:1.55;}
+  .wrap{max-width:720px;margin:0 auto;padding:48px 24px 80px;}
+  h1{font-size:34px;font-weight:900;letter-spacing:-0.5px;margin:0 0 8px;}
+  .tag{font-size:13px;font-weight:800;letter-spacing:1.6px;text-transform:uppercase;color:var(--pine);margin-bottom:4px;}
+  h2{font-size:20px;font-weight:800;margin:28px 0 8px;}
+  p,li{font-size:16px;}
+  ul{padding-left:22px;}
+  .card{background:var(--paper);border:2px solid var(--ink);border-radius:14px;padding:18px 20px;margin:24px 0;box-shadow:5px 5px 0 var(--ink);}
+  .updated{font-size:13px;color:#5f5548;margin-top:24px;}
+  a{color:var(--pine);}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="tag">Privacy Policy</div>
+  <h1>Clean Sheet PDF</h1>
+  <p>Clean Sheet PDF reads, redacts, merges and fills in PDFs, and lets you sign them. It is built to collect <strong>nothing</strong> about you — no account, no sign-up, no tracking, no ads, and no analytics.</p>
+
+  <div class="card">
+    <strong>Summary in one line:</strong> The app has no networking code at all. Your documents, the answers you type into a form, and the signature you draw cannot leave your device through this app, because there is nothing in it that could send them.
+  </div>
+
+  <h2>What we collect</h2>
+  <p>Nothing. There is no account to create and no email to enter. There are no analytics, advertising or tracking SDKs in the app, and no third-party software of any kind — the app uses only Apple's own frameworks.</p>
+
+  <h2>The app does not use the internet</h2>
+  <p>This matters more here than in most apps, because the files you open are contracts, medical letters and bank statements. The compiled app contains no networking code: no <code>URLSession</code>, no <code>WKWebView</code>, no <code>CFNetwork</code>, nothing that could open a connection. A script checks the source for those symbols before every release and fails the build if one appears. Put the device in Airplane Mode and every feature works exactly the same.</p>
+  <p>This is also why the app does not convert PDFs to Word or Excel. Doing that accurately needs a server, and sending your document to a server is the one thing this app will not do.</p>
+
+  <h2>Where your documents live</h2>
+  <p>In the app's own folder on your device. On iPhone and iPad that folder is visible to you in the Files app, so you can take documents out or delete them without this app's help. On a Mac the app is sandboxed and the folder sits inside the app's own container, so the way to put a copy somewhere else is the app's Share command. Deleting a document removes it; deleting the app removes all of them. Nothing is copied anywhere else, and nothing is synced.</p>
+
+  <h2>What you type into a form</h2>
+  <p>Form answers are part of the document, not something the app keeps separately. They are held in the PDF you are working on and written into the copy you save. If you leave <em>Lock the answers</em> switched on, the page is rebuilt with your answers drawn into it, which means they can no longer be edited by whoever receives the file — and no longer read back out of it as form data either. Nothing about them is recorded anywhere else in the app.</p>
+
+  <h2>Your signature</h2>
+  <p>If you draw a signature and leave <em>Remember this signature on this device</em> switched on, the app stores it in its own storage on that device so you do not have to redraw it every time. It is never transmitted — there is no networking in the app to transmit it with — and it is never shared with us or anyone else.</p>
+  <p>Two things worth knowing, stated plainly:</p>
+  <ul>
+    <li>You can remove it whenever you like. Settings has a <em>Your signature</em> section showing exactly what the app has stored, with a <strong>Remove Saved Signature</strong> button. Drawing a new signature with the switch on also replaces it, and deleting the app removes it. Removing the stored copy does not alter documents you have already signed — on those the signature is part of the page, which is the whole point of it.</li>
+    <li>Because it lives in the app's storage, it is included in your device's backup along with the app's other data, in the same way every app's stored data is. That backup is Apple's, governed by <a href="https://www.apple.com/legal/privacy/">Apple's privacy policy</a>, not ours. If you would rather nothing were kept at all, turn that switch off before you sign — the signature is then used for that document only.</li>
+  </ul>
+  <p>To be clear about what a signature here is: it is a handwritten signature, the same thing you would produce with a pen on paper. It is not a cryptographic digital signature, and it carries no certificate or key.</p>
+
+  <h2>When you share a document</h2>
+  <p>If you use the share sheet to send a PDF somewhere — email, Messages, another app — that transfer is made by your device at your request, and whatever you send it to has its own privacy policy. The app itself never initiates a transfer.</p>
+
+  <h2>A note on redaction, locking and signing</h2>
+  <p>These three go through the same engine, and it works the same way each time. When you redact an area, the page is rebuilt as an image with that area painted out, and the new page is written without the original text. The words are not covered up; they are absent from the new file. Locking your answers and signing a page rebuild it the same way, so what you added becomes part of the page rather than a layer sitting on top of it that someone can edit, delete or lift off.</p>
+  <p>The app re-reads its own output before saving and refuses to hand you a document it cannot verify came out as promised. Your original file is never modified — redacting, filling in and signing always save a copy.</p>
+
+  <h2>Children</h2>
+  <p>The app collects no data from anyone, of any age.</p>
+
+  <h2>Changes</h2>
+  <p>If this policy ever changes, the updated version will appear on this page.</p>
+
+  <h2>Contact</h2>
+  <p>Questions: <a href="mailto:john@johnvdoan.com">john@johnvdoan.com</a></p>
+
+  <p class="updated">Last updated 16 September 2026.</p>
+</div>
+</body>
+</html>
