@@ -1,0 +1,49 @@
+Stand Study keeps time while you draw on paper. Choose some reference images and a plan, tap Start and pick up your pencil: the app shows one figure at a time, counts down, chimes, and moves on to the next pose by itself.
+
+There is no canvas and no brush in it. The drawing happens in your sketchbook; Stand Study holds the reference and watches the clock.
+
+A SESSION
+• Draw from the included Sample set, from sets of your own, or from several at once, shuffled or in order
+• A timer ring with the seconds left, and Pause, Back, Skip and End close at hand
+• An end-of-pose chime, a tick 10 seconds before a longer pose ends, and haptics; switch off any of them
+• The screen stays awake while you draw, and the time left is still right if you leave the app and come back
+• At the end you see how many poses you drew and for how long, and save the session to the log
+
+SIX PLANS
+• Warm-up: 10 poses of 30 seconds
+• Gesture: 10 poses of 1 minute
+• Class: 5 of 30 seconds, 5 of 1 minute, 3 of 2 minutes, then 2 of 5 minutes
+• Long poses: 4 poses of 5 minutes
+• Untimed: 10 poses, and you move on when you are ready
+• Custom: 1 to 50 poses, from 10 seconds to 60 minutes each
+
+VIEW AIDS
+Turn them on in the middle of a pose, or choose the ones every session starts with.
+• Grayscale, to judge values without color getting in the way
+• Notan in two or three values, with a threshold you can move, to find the large shapes of light and dark
+• A grid of thirds, quarters or diagonals, laid over the picture itself
+• Mirror, to flip the reference and look at it fresh
+The reference always sits on a neutral gray, so the frame around it does not skew how its values read.
+
+COMPARE
+Photograph your drawing, or choose a photo of it, and lay it over the reference. Fade it with the opacity slider, drag and pinch it into line, and check the proportions for yourself, or put the two side by side. A running pose pauses while you compare. Save the photo and it is kept with that pose in the log.
+
+THE LOG
+Sessions newest first, grouped by week, with this week's minutes and poses at the top. Open a session to see each reference, how long you drew it, which poses you skipped and the drawing photos you kept. Swipe to delete a session.
+
+YOUR OWN REFERENCES
+Make sets in the Library and add pictures with the system photo picker, so the app sees only the ones you choose. Stand Study keeps its own copy of each, with location and camera details removed.
+
+THE SAMPLE SET
+28 public-domain artworks from The Metropolitan Museum of Art, from an ancient Greek vase to works by Dürer, Rembrandt, Vermeer, Millet and Degas: clothed figures dancing, working, standing and seated. The museum released these images under CC0 through its Open Access program, and each one is credited in Settings > About Stand Study. Stand Study is independent of the museum and is not endorsed by it.
+
+ON iPHONE DUO
+The layout is built around the fold. Rest iPhone Duo partly folded on your desk and the upper half becomes a small easel that holds the reference facing you, while the timer and controls wait on the lower half, within reach of your free hand. Hold it partly open with the fold running down the middle, and the reference takes one half and the controls the other. Folding only rearranges the screen; every feature is there whether the phone is folded, open flat or closed.
+
+ON EVERY iPHONE AND iPAD
+On other iPhones the reference fills the screen with the controls in a bar beneath it. In landscape, and on iPad, the controls move to a panel beside the reference. Requires iOS 18 or later.
+
+YOUR DRAWINGS STAY WITH YOU
+No account, no ads, and nothing collected. Stand Study needs no internet connection and never opens one; your sets, your log and your drawing photos are kept in the app on your device. The camera opens only when you choose to photograph a drawing. Free.
+
+For anyone who draws figures from reference on paper, from 30-second gestures to five-minute poses.

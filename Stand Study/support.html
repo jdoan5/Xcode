@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="light dark">
+<title>Stand Study Support</title>
+<style>
+  :root {
+    --paper: #F3EEE4;
+    --card: #FBF8F2;
+    --charcoal: #2A2826;
+    --graphite: #5E5A55;
+    --sienna: #9C4A2B;
+    --rule: #DCD4C6;
+    --mat: #808080;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --charcoal: #ECE7DE;
+      --paper: #1C1A18;
+      --card: #272522;
+      --graphite: #A8A39B;
+      --sienna: #E8A27E;
+      --rule: #3B3733;
+      --mat: #5E5E5E;
+    }
+  }
+  * { box-sizing: border-box; }
+  html { -webkit-text-size-adjust: 100%; }
+  body {
+    color: var(--charcoal);
+    background: var(--paper);
+    margin: 0;
+    font: 17px/1.62 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  }
+  .page { max-width: 680px; margin: 0 auto; padding: 44px 16px 64px; }
+  .eyebrow {
+    display: flex; align-items: center; gap: 10px;
+    font-size: 13px; letter-spacing: 0.14em; text-transform: uppercase;
+    color: var(--sienna); font-weight: 600;
+  }
+  .eyebrow::before {
+    content: ""; width: 22px; height: 28px; border-radius: 3px;
+    background: var(--mat); box-shadow: inset 0 0 0 3px var(--card);
+    border: 1px solid var(--rule);
+  }
+  h1, h2 { font-family: ui-serif, "New York", Georgia, "Times New Roman", serif; font-weight: 600; }
+  h1 { font-size: 34px; line-height: 1.15; margin: 14px 0 6px; }
+  .meta { color: var(--graphite); font-size: 15px; margin: 0 0 26px; }
+  .contact {
+    border: 1px solid var(--rule); border-top: 3px solid var(--sienna); background: var(--card);
+    border-radius: 10px; padding: 14px 18px; margin: 0 0 30px;
+  }
+  .contact p { margin: 6px 0; }
+  .mail {
+    display: inline-block; margin: 6px 0 4px; padding: 10px 18px; border-radius: 999px;
+    background: var(--sienna); color: var(--paper); font-weight: 600; text-decoration: none;
+  }
+  section { border-top: 1px solid var(--rule); padding: 6px 0 10px; }
+  h2 { font-size: 22px; margin: 18px 0 8px; }
+  p { margin: 8px 0; }
+  ol, ul { margin: 8px 0; padding-left: 22px; }
+  li { margin: 6px 0; }
+  li::marker { color: var(--sienna); }
+  details {
+    border: 1px solid var(--rule); border-radius: 10px;
+    background: var(--card); padding: 12px 18px; margin: 0 0 10px;
+  }
+  summary { font-weight: 600; cursor: pointer; }
+  summary::marker { color: var(--sienna); }
+  details[open] summary { margin-bottom: 4px; }
+  a { color: var(--sienna); text-underline-offset: 3px; }
+  .mail:focus-visible, a:focus-visible { outline: 2px solid var(--sienna); outline-offset: 3px; }
+  footer { border-top: 1px solid var(--rule); margin-top: 28px; padding-top: 16px; color: var(--graphite); font-size: 14px; }
+  footer p { margin: 4px 0; }
+</style>
+</head>
+<body>
+<div class="page">
+  <div class="eyebrow">Stand Study &middot; Support</div>
+  <h1>Help with Stand Study</h1>
+  <p class="meta">Timed figure and gesture drawing practice, for drawing on paper &middot; iPhone and iPad</p>
+
+  <div class="contact">
+    <p><strong>A question, a problem, or an idea?</strong> Send me an email. I read every message
+    and answer as soon as I can.</p>
+    <a class="mail" href="mailto:john@johnvdoan.com?subject=Stand%20Study%20Support">john@johnvdoan.com</a>
+    <p>It helps to include your device model, its iOS version, and what you were doing just
+    before the problem.</p>
+  </div>
+
+  <section>
+    <h2>What Stand Study does</h2>
+    <p>It shows reference images one at a time on a timer while you draw on paper. You choose the
+    images and a plan, such as ten poses of one minute; it counts down, chimes and moves on. View
+    aids change how the reference looks, Compare lays a photo of your drawing over it, and the Log
+    keeps each session. There is no drawing canvas: your sketchbook is the canvas.</p>
+  </section>
+
+  <section>
+    <h2>Your first session</h2>
+    <ol>
+      <li>Open the Draw tab. The Sample set is ticked under References.</li>
+      <li>Under Plan, choose Warm-up (ten poses of 30 seconds) or any other plan.</li>
+      <li>Tap Start, set the phone where you can see it, and draw.</li>
+      <li>When the plan ends, or you stop early with End, a summary shows what you drew. Tap Save to Log.</li>
+    </ol>
+  </section>
+
+  <section>
+    <h2>Questions</h2>
+
+    <details open>
+      <summary>How do I add my own reference images?</summary>
+      <p>In the Library tab, tap New Set and give it a name. Open the set, tap Add Images and pick
+      as many pictures as you like from Photos. Stand Study keeps its own copy of each, without
+      location or camera details, and the originals in Photos are left as they are. Then tick
+      the set on the Draw tab. You can draw from several sets at once, with or without the
+      Sample set.</p>
+    </details>
+
+    <details>
+      <summary>Why does the Sample set use museum art?</summary>
+      <p>So you can start a session the moment the app is installed, with references whose rights
+      are clear. The 28 images are public-domain artworks from The Metropolitan Museum of Art,
+      which releases them under Creative Commons Zero (CC0) through its Open Access program. They
+      were picked for clear, clothed figures in many poses: dancers, workers, standing and seated
+      figures, in prints, paintings, drawings and sculpture. Every image is credited in Settings
+      &rsaquo; About Stand Study. Stand Study is independent of the museum and is not endorsed by it.</p>
+    </details>
+
+    <details>
+      <summary>How does Compare work?</summary>
+      <p>During a pose, tap Compare. (When a session ends, the summary also lets you attach a
+      drawing to any pose you drew.) Photograph your drawing, or choose a photo of it, and it
+      appears on top of the reference. Move the opacity slider to fade
+      between the two, drag to move your drawing and pinch to resize it until they line up, then
+      look for where the proportions differ. Side by side shows the two next to each other. A
+      running pose pauses while Compare is open. Save to log keeps the photo with that pose; Cancel
+      keeps nothing.</p>
+    </details>
+
+    <details>
+      <summary>What do the view aids do?</summary>
+      <ul>
+        <li><strong>Grayscale</strong> removes color so you can judge light and dark.</li>
+        <li><strong>Notan</strong> reduces the image to two or three values. The threshold decides
+          where light turns to dark.</li>
+        <li><strong>Grid</strong> draws thirds, quarters or diagonals over the image.</li>
+        <li><strong>Mirror</strong> flips the reference left to right.</li>
+      </ul>
+      <p>Change them at any time during a session. Settings &rsaquo; Default View Aids chooses how
+      new sessions start.</p>
+    </details>
+
+    <details>
+      <summary>How does Stand Study use iPhone Duo's fold?</summary>
+      <p>The layout is designed around the fold. Rest the phone partly folded on a desk and the
+      upper half holds the reference, facing you, while the timer and controls sit on the lower
+      half. Hold it partly open with the fold running down the middle and the reference takes one
+      half, the controls the other. Open flat or closed, the screen is arranged by its size, the
+      same way as on other iPhones and iPads. Folding only moves things around: every feature is
+      available however the phone is held.</p>
+    </details>
+
+    <details>
+      <summary>Does the timer keep going if I leave the app?</summary>
+      <p>Yes. The time left is worked out from the clock, so when you come back the session is on
+      the right pose with the right time. Tap Pause first if you want it to wait for you. No chime
+      or tick plays while Stand Study is in the background.</p>
+    </details>
+
+    <details>
+      <summary>How does the Untimed plan move on?</summary>
+      <p>Untimed poses have no countdown. Tap Next when you have finished each drawing.</p>
+    </details>
+
+    <details>
+      <summary>Can I turn off the sounds?</summary>
+      <p>Yes. In Settings, switch off the end-of-pose chime, the 10-second warning tick or haptics,
+      in any combination. The chime and tick follow your phone's silent mode, so turn silent mode
+      off if you want to hear them.</p>
+    </details>
+
+    <details>
+      <summary>How do I delete my data?</summary>
+      <p>Swipe a session left in the Log to delete it and its drawing photos. In the Library,
+      remove pictures from a set, or delete a whole set, and Stand Study's copies are deleted too.
+      Deleting the app deletes everything it has kept.</p>
+    </details>
+
+    <details>
+      <summary>Does it need the internet, or collect anything?</summary>
+      <p>No to both. Stand Study works offline, makes no network connections and has no account.
+      The details are in the <a href="privacy-policy.html">privacy policy</a>.</p>
+    </details>
+  </section>
+
+  <footer>
+    <p><a href="privacy-policy.html">Privacy policy</a></p>
+    <p>Stand Study is published by John Doan. Sample set images: The Metropolitan Museum of Art,
+    public domain (CC0).</p>
+  </footer>
+</div>
+</body>
+</html>
